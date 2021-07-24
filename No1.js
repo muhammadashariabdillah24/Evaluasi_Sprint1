@@ -1,4 +1,4 @@
-function ifelseif(nilaiAngka) {
+function Ifelseif(nilaiAngka) {
     let nilai = nilaiAngka;
     let grade = ''
     let text = 'Grade : '
@@ -18,4 +18,4 @@ function ifelseif(nilaiAngka) {
     }
 }
 
-ifelseif(100)
+Ifelseif(100)

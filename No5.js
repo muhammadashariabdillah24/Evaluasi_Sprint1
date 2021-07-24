@@ -1,9 +1,12 @@
-function For() {
-    for (let angka = 60;angka <= 100;angka++) {
-        if(angka % 2 == 1){
-            console.log('Bilangan Ganjil : ' + angka);
-        }
-    }
+function Pseucode() {
+    let r = Math.pow(7,2);
+    let L = 3.14
+    let hasil;
+
+    hasil = L * r
+    Ceil = Math.ceil(hasil)
+
+    console.log('Hasil : ' + Ceil);
 }
 
-For()
+Pseucode()
